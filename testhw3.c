@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+#include "hw3.c"
+#include "hw3.h"
 
 /*tests*/
 void test_all_ofty();

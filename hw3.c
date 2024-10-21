@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include "hw3.c"
+#include "hw3.h"
 
 
 /*helper for checking ofty*/
@@ -111,4 +111,4 @@ int* trim_adj_dupes(int* a, unsigned int alen, unsigned int* reslen){
   return final;}
 /*
  nt* slicer(int* source, unsigned int sourcelen, unsigned int* indices,
-            unsigned int indiceslen, unsigned int* reslen)
+            unsigned int indiceslen, unsigned int* reslen)*/
